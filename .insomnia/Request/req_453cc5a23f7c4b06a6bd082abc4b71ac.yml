@@ -1,0 +1,21 @@
+_id: req_453cc5a23f7c4b06a6bd082abc4b71ac
+type: Request
+parentId: fld_a49fea38e0b548c885f8d9cff6751e94
+modified: 1681000701658
+created: 1681000701658
+url: http://localhost:5095/api/c/platforms/
+name: Test Inbound Connection
+description: ""
+method: POST
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1680841387585
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_74f1366ec2954aa69629bdf17a0f3bfd
+type: Request
+parentId: fld_a6f8e06b6ca449eabd7d3d4e3154a729
+modified: 1681000701633
+created: 1681000701633
+url: http://localhost:5027/api/Platforms
+name: Get All Platforms
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1680835602437
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

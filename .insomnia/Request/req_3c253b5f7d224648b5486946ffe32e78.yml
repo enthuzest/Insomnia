@@ -1,0 +1,30 @@
+_id: req_3c253b5f7d224648b5486946ffe32e78
+type: Request
+parentId: fld_281fcc8d19254dd3962af7ca046d2599
+modified: 1681000677652
+created: 1681000677652
+url: http://acme.com/api/platforms
+name: Create Platform
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    		"name": "Vagrant",
+    		"publisher": "Hashicorp",
+    		"cost": "Free"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1680848904405.75
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

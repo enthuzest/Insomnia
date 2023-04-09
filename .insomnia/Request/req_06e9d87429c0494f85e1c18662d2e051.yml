@@ -1,0 +1,29 @@
+_id: req_06e9d87429c0494f85e1c18662d2e051
+type: Request
+parentId: fld_a49fea38e0b548c885f8d9cff6751e94
+modified: 1681000701673
+created: 1681000701673
+url: http://localhost:5095/api/c/platforms/5/commands
+name: Create Command For Platform
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"HowTo": "Push a docker container to hub",
+    	"CommandLine" : "docker push <name of container>"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1680918987572
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,29 @@
+_id: req_80141a6ea49a4a03abba5bb14850d505
+type: Request
+parentId: fld_306f184bd7e446979bfc9302ef0f8ee5
+modified: 1681000677662
+created: 1681000677662
+url: http://acme.com/api/c/platforms/6/commands
+name: Create Command For Platform
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"HowTo": "Push a docker container to hub",
+    	"CommandLine" : "docker push <name of container>"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1680908661210.8438
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

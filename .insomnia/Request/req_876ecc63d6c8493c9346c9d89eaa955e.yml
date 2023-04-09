@@ -1,0 +1,30 @@
+_id: req_876ecc63d6c8493c9346c9d89eaa955e
+type: Request
+parentId: fld_0ce91675be2b43b783063c4cbbc1bcdd
+modified: 1681000677638
+created: 1681000677638
+url: http://localhost:31380/api/platforms
+name: Create Platform
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    		"name": "Docker",
+    		"publisher": "Docker",
+    		"cost": "Free"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1680840391368
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

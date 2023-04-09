@@ -1,0 +1,21 @@
+_id: req_6df275c6981a4b7da24bc06fd82ddfed
+type: Request
+parentId: fld_281fcc8d19254dd3962af7ca046d2599
+modified: 1681000677649
+created: 1681000677649
+url: http://acme.com/api/platforms
+name: Get All Platforms
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1680881517995.375
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
